@@ -2,7 +2,7 @@
 
 **Application:** ParaBank (https://parabank.parasoft.com/parabank/index.htm)
 **Test type:** Functional, manual
-**Date:** [date]
+**Date:** 16.10.2026
 
 ---
 
